@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import './css/styles.css';
-import './css/global.css';
+import './css/styles.css';
 
 const App = () => (
   <div>React App!</div>

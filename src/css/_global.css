@@ -9,7 +9,3 @@ html, body {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
-body {
-  background-color: red;
-}
